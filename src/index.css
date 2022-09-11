@@ -58,6 +58,7 @@ body {
   border-radius: 5px;
   background-color: #313133a4;
   min-width: 30rem;
+  position: relative;
 }
 
 .header {
@@ -147,8 +148,18 @@ body {
 }
 
 footer {
-  margin-top: 30px;
+  position:relative;
+  width: 90%;
+  margin: auto;
+  margin-top: 3rem;
   text-align: center;
+  bottom:0.6rem;
+  border-top: 1px solid cyan;
+  padding-top:0.8rem;
+}
+
+.about {
+  text-align:center;
 }
 
 .image{

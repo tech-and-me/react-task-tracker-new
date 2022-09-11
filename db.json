@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1662889412524,
+      "text": "Doctor Appointment",
+      "day": "Friday 2PM",
+      "reminder": false
+    },
+    {
+      "id": 1662889428901,
+      "text": "Pick up mum & dad",
+      "day": "Saturday 10AM",
+      "reminder": true
+    },
+    {
+      "id": 1662889451411,
+      "text": "Groceries Shopping",
+      "day": "Sunday 2PM",
+      "reminder": false
+    },
+    {
+      "id": 1662889465520,
+      "text": "Teaching Kids Coding ",
+      "day": "Sunday 10AM",
+      "reminder": true
+    }
+  ]
+}
